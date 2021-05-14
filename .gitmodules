@@ -1,0 +1,18 @@
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/riscv/riscv-gnu-toolchain
+[submodule "riscv-isa-sim"]
+	path = riscv-isa-sim
+	url = https://github.com/riscv/riscv-isa-sim
+[submodule "riscv-opcodes"]
+	path = riscv-opcodes
+	url = https://github.com/riscv/riscv-opcodes
+[submodule "riscv-openocd"]
+	path = riscv-openocd
+	url = https://github.com/riscv/riscv-openocd
+[submodule "riscv-pk"]
+	path = riscv-pk
+	url = https://github.com/riscv/riscv-pk
+[submodule "riscv-tests"]
+	path = riscv-tests
+	url = https://github.com/riscv/riscv-tests
